@@ -26,8 +26,6 @@ A comprehensive 20-page security architecture document for a large institutional
 
 Designed and prototyped a complete user interface based on formative research and usability testing. Every design decision was justified through Nielsen's 10 Usability Heuristics.
 
-**Instructor Feedback:** *"Your UI looks good and has a clear and intuitive design. This can be a strong addition to your portfolio. Good job!"* — Nafisa Nowshin, Teaching Assistant
-
 **Key Skills:** User research, formative testing, iterative design, usability heuristics, prototype development, design justification.
 
 ---

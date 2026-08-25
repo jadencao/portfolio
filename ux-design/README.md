@@ -62,13 +62,7 @@ Every UI decision is grounded in research findings and usability heuristics. The
 
 ---
 
-## Instructor Feedback
 
-> "Nice presentation! Your UI looks good and has a clear and intuitive design. You have provided detailed justifications for each design decision. It's clear you've put a lot of thought into how each element enhances usability. **This can be a strong addition to your portfolio.** Good job!"
-
-— **Nafisa Nowshin**, Teaching Assistant, CS 352
-
----
 
 ## Why This Matters for UX/Design
 
